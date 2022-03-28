@@ -1,13 +1,13 @@
 # Sneronoi
 
-This repository contains the source code for the generative art collection Sneronoi, written by Claus O. Wilke and released on fx(hash) on Dec. 27, 2021: https://www.fxhash.xyz/generative/4832
+This repository contains the source code for the generative art collection [Sneronoi,](https://www.fxhash.xyz/generative/4832) written by Claus O. Wilke and released on fx(hash) on Dec. 27, 2021.
 
 The code is provided as is, with some very minor clean-up compared to the published version. Generated outputs are identical. The code is licensed under CC-BY, so it can be used for derivative NFT projects. One of the main features of the code is a 2D JavaScript implementation of t-SNE with relatively good performance.
 
 
 # How to build and run the code locally
 
-The Sneronoi code is derived from the fx(hash) webpack boilerplate (https://github.com/fxhash/fxhash-webpack-boilerplate). Installation and usage instructions are identical to the boilerplate and are reproduced here with minor change.
+The Sneronoi code is derived from the [fx(hash) webpack boilerplate.](https://github.com/fxhash/fxhash-webpack-boilerplate) Installation and usage instructions are identical to the boilerplate and are reproduced here with minor change.
 
 You will need to have [nodejs](https://nodejs.org/) installed.
 
