@@ -12,7 +12,7 @@ module.exports = class TSNE {
     this.learning_rate = config.learning_rate || 10.0
     this.max_iter = config.max_iter || 1000
     this.neighborhood_multiplier = config.neighborhood_multiplier || 3
-    this.theta = config.theta || 1.6 // theta parameter for Barnes-Hut
+    this.theta = config.theta || 0.5 // theta parameter for Barnes-Hut
     this.barnes_hut_cutoff = config.barnes_hut_cutoff || 2000 // number of datapoints above which Barnes-Hut becomes faster than naive method, depends on value of theta
 
     // random number generator
