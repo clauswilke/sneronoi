@@ -49,7 +49,7 @@ Yes, you just have to acknowledge that you used my code. Something like the foll
 
 ## I don't want to reproduce your art. Is this even useful?
 
-t-SNE is a very flexible algorithm and depending on input parameters and visualization choices can produce many different types of artworks. I think that if you try a bit, you can make it your own. As an example, check out the pieces on my website, for example [t-SNE,](https://clauswilke.com/art/project/t-sne) [Shards of Blue,](https://clauswilke.com/art/project/shards-of-blue) or [Nonlinear Dimension Reduction](https://clauswilke.com/art/project/nonlinear-dimension-reduction) (https://clauswilke.com/art). Also, I'd like to point out that two other pieces I released on fx(hash), [Incomplete Convergence](https://www.fxhash.xyz/generative/5917) and [Voxelsne,](https://www.fxhash.xyz/generative/9243) were derived from the code in this repository.
+t-SNE is a very flexible algorithm and depending on input parameters and visualization choices can produce many different types of artworks. I think that if you try a bit, you can make it your own. As an example, check out the pieces on my website, for example [t-SNE,](https://clauswilke.com/art/project/t-sne) [Shards of Blue,](https://clauswilke.com/art/project/shards-of-blue) or [Nonlinear Dimension Reduction.](https://clauswilke.com/art/project/nonlinear-dimension-reduction) Also, I'd like to point out that two other pieces I released on fx(hash), [Incomplete Convergence](https://www.fxhash.xyz/generative/5917) and [Voxelsne,](https://www.fxhash.xyz/generative/9243) were derived from the code in this repository.
 
 ## I don't want to use t-SNE but I like your color palettes. Can I use them?
 
